@@ -1,6 +1,6 @@
 
 import Sectiontwo from './Sectiontwo'
-
+import Foot from './Footer'
 
 function Home() {
   return (
@@ -20,7 +20,7 @@ function Home() {
 
        
 
-        {/* Miracle */}
+        <Foot/>
     
     </div>
 
