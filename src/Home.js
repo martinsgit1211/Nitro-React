@@ -1,31 +1,32 @@
 
+import Banner from './Banner'
 import Sectiontwo from './Sectiontwo'
 import Sectionthree from './Sectionthree'
 import Foot from './Footer'
 
 function Home() {
   return (
-   <>
-    <div className="main-container">
+    <>
+      <div className="main-container">
 
-        {/* Bossun */}
-    
-
+        <Banner />
 
 
-        <Sectiontwo/>
+
+
+        <Sectiontwo />
 
 
 
         <Sectionthree/>
 
-       
 
-        <Foot/>
-    
-    </div>
 
-   </>
+        {/* Miracle */}
+
+      </div>
+
+    </>
   )
 }
 
