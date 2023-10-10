@@ -1,7 +1,7 @@
 
 import Banner from './Banner'
 import Sectiontwo from './Sectiontwo'
-
+import Foot from './Footer'
 
 function Home() {
   return (
