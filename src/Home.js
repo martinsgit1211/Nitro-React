@@ -1,5 +1,6 @@
 
 import Sectiontwo from './Sectiontwo'
+import Sectionthree from './Sectionthree'
 import Foot from './Footer'
 
 function Home() {
@@ -16,7 +17,7 @@ function Home() {
 
 
 
-        {/* Ayo */}
+        <Sectionthree/>
 
        
 
